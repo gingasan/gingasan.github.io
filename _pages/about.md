@@ -17,6 +17,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 # Publication
 
-* Weiqi Wu, **Hongqiu Wu**, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. Findings of ACL 2024. [PDF]()
-* Lai Jiang*, **Hongqiu Wu**, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. Findings of ACL 2024. [PDF]()
+\* denotes equal contribution
+
+* Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. Findings of ACL 2024. [PDF]()
+* Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. Findings of ACL 2024. [PDF]()
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. [PDF]("https://arxiv.org/pdf/2404.00276.pdf")
