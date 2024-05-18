@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hongqiu Wu"
   pronouns         : # example: "she/her"  
-  bio              : "researcher@SJTU/amateur game developer@miHoyo"
+  bio              : "researcher@SJTU/amateur game developer@miHoYo"
   location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -72,7 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/ginga-85"
-  bilibili         : "https://space.bilibili.com/38281543"
 
 
 # Site Settings
