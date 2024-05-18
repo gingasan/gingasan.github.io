@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hey guys, this is (伍鸿秋) Hongqiu Wu. I am now a PhD student in Dept. CS Shanghai Jiao Tong University.
+Hey guys, this is (伍鸿秋) Hongqiu Wu. I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
 
 My research interest is AI for games, world modeling, and error correction.
 
-==[New]==
+==
 
 We developed LLM-based interactive drama.
 
-We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]] (https://zhuanlan.zhihu.com/p/690984411)
+We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411)
 
-We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction. [[ReLM]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419)
+We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction. [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419)
 
-We released LEMON, a novel Chinese Spelling Correction benchmark with ByteDance. [[LEMON]](https://github.com/gingasan/lemon)
+We released LEMON, a novel Chinese Spelling Correction benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
 
 I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public) (05/03/2022).
 
