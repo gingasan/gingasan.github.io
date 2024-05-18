@@ -19,19 +19,21 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 \* denotes equal contribution
 
+**2024**
+
 * Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. Findings of ACL 2024. [PDF]()
 * Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. Findings of ACL 2024. [PDF]()
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. [PDF]("https://arxiv.org/pdf/2404.00276.pdf")
 * Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. COLING 2024. [PDF]("https://arxiv.org/pdf/2305.05253.pdf")
-* Khai Jiet Liong, Hongqiu Wu, Hai Zhao. Unveiling Vulnerability of Self-Attention. COLING 2024. [PDF]("https://arxiv.org/pdf/2402.16470.pdf")
-* Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. AAAI 2024. [PDF]("https://arxiv.org/pdf/2308.08796.pdf")
+* Khai Jiet Liong, Hongqiu Wu, Hai Zhao. Unveiling Vulnerability of Self-Attention. COLING 2024. [PDF](https://arxiv.org/pdf/2402.16470.pdf)
+* Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. AAAI 2024. [PDF](https://arxiv.org/pdf/2308.08796.pdf)
 
 **2023**
 
-* **Hongqiu Wu**, Linfeng Liu, Hai Zhao, Min Zhang. Empower Nested Boolean Logic via Self-Supervised Curriculum Learning. EMNLP 2023. [PDF]("https://arxiv.org/pdf/2310.05450.pdf")
-* **Hongqiu Wu**, Shaohua Zhang, Yuchen Zhang, Hai Zhao. Rethinking Masked Language Modeling for Chinese Spelling Correction. ACL 2023. <a href="https://aclanthology.org/2023.acl-long.600.pdf">[PDF]</a></li>
-* **Hongqiu Wu**, Yongxiang Liu, Hanwen Shi, Hai Zhao, Min Zhang. Toward Adversarial Training on Contextualized Language Representation. ICLR 2023. <a href="https://arxiv.org/pdf/2305.04557.pdf">[PDF]</a></li>
-* **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Pengjun Xie, Fei Huang, Min Zhang. Adversarial Self-Attention for Language Understanding. AAAI 2023. <a href="https://arxiv.org/pdf/2206.12608.pdf">[PDF]</a></li>
+* **Hongqiu Wu**, Linfeng Liu, Hai Zhao, Min Zhang. Empower Nested Boolean Logic via Self-Supervised Curriculum Learning. EMNLP 2023. [PDF](https://arxiv.org/pdf/2310.05450.pdf)
+* **Hongqiu Wu**, Shaohua Zhang, Yuchen Zhang, Hai Zhao. Rethinking Masked Language Modeling for Chinese Spelling Correction. ACL 2023. [PDF](https://aclanthology.org/2023.acl-long.600.pdf)
+* **Hongqiu Wu**, Yongxiang Liu, Hanwen Shi, Hai Zhao, Min Zhang. Toward Adversarial Training on Contextualized Language Representation. ICLR 2023. [PDF](https://arxiv.org/pdf/2305.04557.pdf)
+* **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Pengjun Xie, Fei Huang, Min Zhang. Adversarial Self-Attention for Language Understanding. AAAI 2023. [PDF](https://arxiv.org/pdf/2206.12608.pdf)
 
 **2022**
 
