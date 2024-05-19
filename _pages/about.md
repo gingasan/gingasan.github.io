@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey guys, this is (伍鸿秋) Hongqiu Wu. I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
+Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
+My research interest is AI for games, world modeling, and error correction. I am currently working as a research intern at miHoYo.
+I love playing games and wanna be a amateur game developer. My favorite games include Assassin's Creed, Three Kingdoms, Marvel's Spider-Man, Arknights, etc.
 
-My research interest is AI for games, world modeling, and error correction.
-
-==
+---
 
 We developed LLM-based interactive drama.
 
