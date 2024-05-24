@@ -39,7 +39,7 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 * Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024*. [[PDF]]()
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. [[PDF]]("https://arxiv.org/pdf/2404.00276.pdf")
 * Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. *COLING 2024*. [[PDF]]("https://arxiv.org/pdf/2305.05253.pdf")
-* Khai Jiet Liong, Hongqiu Wu, Hai Zhao. Unveiling Vulnerability of Self-Attention. *COLING 2024*. [[PDF]](https://arxiv.org/pdf/2402.16470.pdf)
+* Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention. *COLING 2024*. [[PDF]](https://arxiv.org/pdf/2402.16470.pdf)
 * Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. *AAAI 2024*. [[PDF]](https://arxiv.org/pdf/2308.08796.pdf)
 
 **2023**

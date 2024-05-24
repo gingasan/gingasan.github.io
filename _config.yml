@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.png"
+  avatar           : "photo.jpg"
   name             : "Hongqiu Wu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "researcher@SJTU/amateur game developer@miHoYo"
   location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
