@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Hongqiu Wu"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"  
   bio              : "researcher@SJTU/amateur game developer@miHoYo"
   location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
