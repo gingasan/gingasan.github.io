@@ -12,7 +12,7 @@ title                    : "Hongqiu Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gingasan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "researcher@SJTU/amateur game developer@miHoYo"
   location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
-  uri              : "https://academicpages.github.io"
+  uri              : # URL
   email            : "wuhongqiu@sjtu.edu.cn" 
 
   # Academic websites
