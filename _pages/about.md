@@ -23,6 +23,8 @@ We developed LLM-based interactive drama in a script of Detective Conan, where a
 
 We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411)
 
+![](poker.png)
+
 We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction (CSC). [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419) We released LEMON, a novel multi-domain CSC benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
 
 I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public) (05/03/2022).
@@ -39,7 +41,7 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 
 **2024**
 
-* **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Hai Zhao, Yan Wang, Min Zhang, Zhezhi He. Scaling Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
+* **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Scaling Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
 * Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 * Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. [[PDF]](https://arxiv.org/pdf/2408.09853)
 * Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. *Findings of ACL 2024*. [[PDF]](https://arxiv.org/pdf/2405.14231)
