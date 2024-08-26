@@ -17,7 +17,7 @@ My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 ---
 We developed *Delta-Pokemon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
 
-<img src="graphal.png" width="50%">
+![](graphal.png)
 
 We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230)
 
