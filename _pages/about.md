@@ -17,6 +17,8 @@ My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 ---
 We developed *Delta-Pokemon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
 
+![](tigrex.png)
+
 We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230)
 
 We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411)
@@ -37,9 +39,9 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 
 **2024**
 
-* Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. [[PDF]]()
-* Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. [[PDF]]()
-* **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Hai Zhao, Min Zhang, Zhezhi He. Scaling Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
+* **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Hai Zhao, Yan Wang, Min Zhang, Zhezhi He. Scaling Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
+* Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
+* Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. [[PDF]](https://arxiv.org/pdf/2408.09853)
 * Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. *Findings of ACL 2024*. [[PDF]](https://arxiv.org/pdf/2405.14231)
 * Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024*. [[PDF]]()
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. [[PDF]](https://arxiv.org/pdf/2404.00276)
