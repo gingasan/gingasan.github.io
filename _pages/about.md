@@ -17,6 +17,8 @@ My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 ---
 We developed *Delta-Pokemon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
 
+![](free-pokemon.png)
+
 ![](graphal.png)
 
 We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230)
@@ -45,9 +47,9 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 * Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 * Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. [[PDF]](https://arxiv.org/pdf/2408.09853)
 * Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. *Findings of ACL 2024*. [[PDF]](https://arxiv.org/pdf/2405.14231)
-* Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024*. [[PDF]]()
+* Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024*. [[PDF]](https://aclanthology.org/2024.findings-acl.413.pdf)
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. [[PDF]](https://arxiv.org/pdf/2404.00276)
-* Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. *COLING 2024*. [[PDF]]("https://arxiv.org/pdf/2305.05253")
+* Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. *COLING 2024*. [[PDF]](https://arxiv.org/pdf/2305.05253)
 * Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention. *COLING 2024*. [[PDF]](https://arxiv.org/pdf/2402.16470)
 * Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. *AAAI 2024*. [[PDF]](https://arxiv.org/pdf/2308.08796)
 
