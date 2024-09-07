@@ -19,7 +19,7 @@ We developed *Delta-Pokemon*, a new game genre **Open Role-Playing Game (ORPG)**
 
 ![](free-pokemon.png)
 
-![](graphal.png)
+
 
 We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230)
 
