@@ -15,9 +15,9 @@ I worked as a research intern at miHoYo.
 My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 
 ---
-We developed *Delta-Pokemon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
+We developed *Free Pokémon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
 
-![](free-pokemon.png)
+![](frpm.png)
 
 
 
