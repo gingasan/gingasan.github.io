@@ -25,7 +25,7 @@ We developed LLM-based interactive drama in a script of Detective Conan, where a
 
 We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411)
 
-![](poker.png)
+![](dt.jpg)
 
 We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction (CSC). [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419) We released LEMON, a novel multi-domain CSC benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
 
