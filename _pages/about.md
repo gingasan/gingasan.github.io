@@ -71,8 +71,9 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 * **Hongqiu Wu**, Hai Zhao, Min Zhang. Code Summarization with Structure-induced Transformer. *ACL 2021* [[PDF]](https://aclanthology.org/2021.findings-acl.93.pdf)
 
 # Honors
-* Huawei Scholarship
-* Intel Scholarship
+* National Scholarship (国家奖学金)
+* Huawei Scholarship (华为奖学金)
+* Intel Scholarship (英特尔奖学金)
 * Third place in Obei Cup
 * Outstanding Student Scholarship
 * The SJTU Cup Champions for Football
