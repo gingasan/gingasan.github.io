@@ -60,11 +60,12 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2024**
 
-<h1>Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.</h1>
+<ul>
+  <li>Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, <em>Xingyuan Liu</em>, Yan Wang, Hai Zhao.</p>
 
-<p><strong>Hongqiu Wu</strong>, <em>Xingyuan Liu</em>, Yan Wang, Hai Zhao.</p>
-
-<p><em>EMNLP 2024 Demonstration</em></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>EMNLP 2024 Demonstration</em></p>
 
 
 
