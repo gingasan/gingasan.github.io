@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
-My research interest includes **virtual world**, **user generated content**, **role-playing**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ACL/EMNLP/COLING/NeurIPS/ICLR. 
+My research interest includes **open virtual world**, **user generated content**, **role-playing**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ACL, EMNLP, NeurIPS, ICLR, etc.
 
 I worked as a research intern at miHoYo.
 My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
@@ -58,6 +58,8 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 \* denotes equal contribution
 
+<style>   p {     margin: 0;   } </style>
+
 **2024**
 
 * Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.
@@ -68,6 +70,8 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 *  Evolving Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
 
   **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.
+
+  Arxiv 2024
 * Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 
   Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao.
