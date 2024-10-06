@@ -60,18 +60,17 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2024**
 
-<ul style="line-height: 0.3;word-wrap: break-word">
+<ul style="line-height: 0.3">
   <li>Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.</li>
 </ul>
-<p style="line-height: 0.3;margin-left: 8em;"><strong>Hongqiu Wu*</strong>, Xingyuan Liu*, Yan Wang, Hai Zhao.</p>
+<p style="line-height: 0.3;margin-left: 2em;"><strong>Hongqiu Wu*</strong>, Xingyuan Liu*, Yan Wang, Hai Zhao.</p>
 <p style="line-height: 0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EMNLP 2024 Demonstration</p>
 
-<ul>
+<ul style="line-height: 0.3">
   <li>Evolving Virtual World with Delta-Engine. <a href="https://arxiv.org/pdf/2408.05842">[PDF]</a></li>
 </ul>
-<p style="line-height: 0.3; word-wrap: break-word;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.</p>
-
-<p style="line-height: 0.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arxiv 2024</p>
+<p style="word-wrap: break-word;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.</p>
+<p style="line-height: 0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arxiv 2024</p>
 
 * Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 
