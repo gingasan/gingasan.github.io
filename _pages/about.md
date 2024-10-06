@@ -64,17 +64,17 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
   <li>Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.</li>
 </ul>
 
-<p style="line-height: 0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, <em>Xingyuan Liu</em>, Yan Wang, Hai Zhao.</p>
+<p style="line-height: 0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu*</strong>, Xingyuan Liu*, Yan Wang, Hai Zhao.</p>
 
-<p style="line-height: 0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>EMNLP 2024 Demonstration</em></p>
+<p style="line-height: 0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>EMNLP 2024 Demonstration</em></p>
 
 
 
 * Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.
 
-  **Hongqiu Wu***, Xingyuan Liu*, Yan Wang, Hai Zhao.*
+  **Hongqiu Wu***, Xingyuan Liu*, Yan Wang, Hai Zhao.
 
-  EMNLP 2024 Demonstration*
+  *EMNLP 2024 Demonstration*
 
 * Evolving Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
 
