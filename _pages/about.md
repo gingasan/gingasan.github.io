@@ -58,20 +58,20 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 \* denotes equal contribution
 
-<style>   p {     margin: 0;   } </style>
-
 **2024**
 
 * Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.
 
-  **Hongqiu Wu***, Xingyuan Liu*, Yan Wang, Hai Zhao.
+&nbsp;&nbsp;**Hongqiu Wu***, Xingyuan Liu*, Yan Wang, Hai Zhao.*
 
-  *EMNLP 2024 Demonstration*
+&nbsp;&nbsp;EMNLP 2024 Demonstration*
+
 *  Evolving Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
 
-  **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.
+&nbsp;&nbsp;&nbsp;**Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.
 
-  Arxiv 2024
+&nbsp;&nbsp;&nbsp;Arxiv 2024
+
 * Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 
   Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao.
