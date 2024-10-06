@@ -15,15 +15,29 @@ I worked as a research intern at miHoYo.
 My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 
 ---
-We developed *Free Pokémon*, a new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
+# Project
+
+### Free Pokémon
+
+A new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
+
+<img src="frpm.png" alt="Free Pokémon" style="width: 80%; max-width: 600px; float: left; margin-right: 20px;"/>
 
 ![](frpm.png)
 
 
 
-We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230)
+### Interactive Drama
 
-We developed Instruction-Driven Poker Engine. It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411)
+We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230) Our work is accepted by ACL 2024.
+
+![](drama.png)
+
+
+
+### Instruction-Driven Poker Engine
+
+It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411) Our work is accepted by EMNLP 2024 Demonstration.
 
 ![](dt.jpg)
 
