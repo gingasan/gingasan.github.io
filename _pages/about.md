@@ -60,7 +60,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2024**
 
-<ul>
+<ul style="line-height: 0.3;word-wrap: break-word">
   <li>Instruction-Driven Game-Development and Game-Play: A Case Study for Poker.</li>
 </ul>
 
@@ -72,7 +72,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
   <li>Evolving Virtual World with Delta-Engine. <a href="https://arxiv.org/pdf/2408.05842">[PDF]</a></li>
 </ul>
 
-<p style="line-height: 0.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.</p>
+<p style="line-height: 0.3;word-wrap: break-word">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hongqiu Wu</strong>, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He.</p>
 
 <p style="line-height: 0.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arxiv 2024</p>
 
