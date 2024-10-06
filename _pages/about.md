@@ -43,6 +43,7 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 
 **2024**
 
+* **Hongqiu Wu***, Xingyuan Liu*, Yan Wang, Hai Zhao. Instruction-Driven Game-Development and Game-Play: A Case Study for Poker. *EMNLP 2024 Demonstration*.
 * **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Scaling Virtual World with Delta-Engine. [[PDF]](https://arxiv.org/pdf/2408.05842)
 * Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. [[PDF]](https://arxiv.org/pdf/2408.09386)
 * Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. [[PDF]](https://arxiv.org/pdf/2408.09853)
