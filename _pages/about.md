@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
-My research interest includes **virtual world**, **user generated content**, **role-playing**, and **error correction**.
-I'm serveing as reviewer for ACL/EMNLP/COLING/NeurIPS/ICLR.
+My research interest includes **virtual world**, **user generated content**, **role-playing**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ACL/EMNLP/COLING/NeurIPS/ICLR. 
 
 I worked as a research intern at miHoYo.
 My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
@@ -20,8 +19,6 @@ My favorite games include Assassin's Creed, Marvel's Spider-Man, Arknights, etc.
 ### Free Pokémon
 
 A new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
-
-<img src="frpm.png" alt="Free Pokémon" style="width: 80%; max-width: 600px; float: left; margin-right: 20px;"/>
 
 ![](frpm.png)
 
@@ -41,15 +38,21 @@ It allows players to craft specific games by natural language. [[demo]](https://
 
 ![](dt.jpg)
 
-We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction (CSC). [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419) We released LEMON, a novel multi-domain CSC benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
 
-I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public) (05/03/2022).
+
+### ReLM
+
+We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction (CSC). [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419); LEMON, a novel multi-domain CSC benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
+
+---
 
 # Education
 
 * PhD, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2020 - present
 
 * Bachelor of Engineering, Information Engineering, Shanghai Jiao Tong University, 2015 - 2020
+
+---
 
 # Publication
 
@@ -85,7 +88,7 @@ I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and
 * **Hongqiu Wu**, Hai Zhao, Min Zhang. Not All Attention Is All You Need. Preprint. [[PDF]](https://arxiv.org/pdf/2104.04692)
 * **Hongqiu Wu**, Hai Zhao, Min Zhang. Code Summarization with Structure-induced Transformer. *ACL 2021* [[PDF]](https://aclanthology.org/2021.findings-acl.93.pdf)
 
-# Honors
+# Honor
 * National Scholarship (国家奖学金)
 * Huawei Scholarship (华为奖学金)
 * Intel Scholarship (英特尔奖学金)
