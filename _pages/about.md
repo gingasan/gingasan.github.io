@@ -61,22 +61,14 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 **2024**
 
 * **Hongqiu Wu**\* Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game-Development and Game-Play: A Case Study for Poker. *EMNLP 2024 Demonstration*
-
 * **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.05842)
-
 * Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09386)
-
 * Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09853)
-
 * Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. *Findings of ACL 2024* [[PDF]](https://arxiv.org/pdf/2405.14231)
-
 * Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024* [[PDF]](https://aclanthology.org/2024.findings-acl.413.pdf)
-
 * **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2404.00276)
 * Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. *COLING 2024* [[PDF]](https://arxiv.org/pdf/2305.05253)
-
 * Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention. *COLING 2024* [[PDF]](https://arxiv.org/pdf/2402.16470)
-
 * Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. *AAAI 2024* [[PDF]](https://arxiv.org/pdf/2308.08796)
 
 
