@@ -60,7 +60,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2024**
 
-* **Hongqiu Wu**\*, Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game Engine: A Poker Case Study. *EMNLP 2024 Demonstration* [[PDF]](https://arxiv.org/pdf/2404.00276)
+* [[EMNLP 2024 Demo]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**\*, Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game Engine: A Poker Case Study.
 * **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.05842)
 * Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09386)
 * Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09853)
@@ -74,10 +74,10 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2023**
 
-* **Hongqiu Wu**, Linfeng Liu, Hai Zhao, Min Zhang. Empower Nested Boolean Logic via Self-Supervised Curriculum Learning. *EMNLP 2023* [[PDF]](https://aclanthology.org/2023.emnlp-main.847.pdf)
-* **Hongqiu Wu**, Shaohua Zhang, Yuchen Zhang, Hai Zhao. Rethinking Masked Language Modeling for Chinese Spelling Correction. *ACL 2023* [[PDF]](https://aclanthology.org/2023.acl-long.600.pdf)
-* **Hongqiu Wu**, Yongxiang Liu, Hanwen Shi, Hai Zhao, Min Zhang. Toward Adversarial Training on Contextualized Language Representation. *ICLR 2023* [[PDF]](https://arxiv.org/pdf/2305.04557.pdf)
-* **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Pengjun Xie, Fei Huang, Min Zhang. Adversarial Self-Attention for Language Understanding. *AAAI 2023* [[PDF]](https://arxiv.org/pdf/2206.12608)
+* [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.847.pdf) **Hongqiu Wu**, Linfeng Liu, Hai Zhao, Min Zhang. Empower Nested Boolean Logic via Self-Supervised Curriculum Learning.
+* [[ACL 2023]](https://aclanthology.org/2023.acl-long.600.pdf) **Hongqiu Wu**, Shaohua Zhang, Yuchen Zhang, Hai Zhao. Rethinking Masked Language Modeling for Chinese Spelling Correction. 
+* [[ICLR 2023]](https://arxiv.org/pdf/2305.04557.pdf) **Hongqiu Wu**, Yongxiang Liu, Hanwen Shi, Hai Zhao, Min Zhang. Toward Adversarial Training on Contextualized Language Representation.
+* [[AAAI 2023]](https://arxiv.org/pdf/2206.12608) **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Pengjun Xie, Fei Huang, Min Zhang. Adversarial Self-Attention for Language Understanding.
 
 **2022**
 
