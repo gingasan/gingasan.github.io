@@ -61,16 +61,15 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 **2024**
 
 * [[EMNLP 2024 Demo]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**\*, Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game Engine: A Poker Case Study.
-* **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.05842)
-* Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09386)
-* Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2408.09853)
-* Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution. *Findings of ACL 2024* [[PDF]](https://arxiv.org/pdf/2405.14231)
-* Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner. *Findings of ACL 2024* [[PDF]](https://aclanthology.org/2024.findings-acl.413.pdf)
-* **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models. *Arxiv 2024* [[PDF]](https://arxiv.org/pdf/2404.00276)
-* Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference. *COLING 2024* [[PDF]](https://arxiv.org/pdf/2305.05253)
-* Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention. *COLING 2024* [[PDF]](https://arxiv.org/pdf/2402.16470)
-* Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model. *AAAI 2024* [[PDF]](https://arxiv.org/pdf/2308.08796)
-
+* [[Arxiv]](https://arxiv.org/pdf/2408.05842) **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine.
+* [[Arxiv]](https://arxiv.org/pdf/2408.09386) Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction.
+* [[Arxiv]](https://arxiv.org/pdf/2408.09853) Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models.
+* [[ACL 2024]](https://arxiv.org/pdf/2405.14231) Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution.
+* [[ACL 2024]](https://aclanthology.org/2024.findings-acl.413.pdf) Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner.
+* [[Arxiv]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models.
+* [[COLING 2024]](https://arxiv.org/pdf/2305.05253) Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference.
+* [[COLING 2024]](https://arxiv.org/pdf/2402.16470) Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention.
+* [[AAAI 2024]](https://arxiv.org/pdf/2308.08796) Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model.
 
 **2023**
 
@@ -81,13 +80,13 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2022**
 
-* **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Boli Chen, Pengjun Xie, Fei Huang, Min Zhang. Forging Multiple Training Objectives for Pre-trained Language Models via Meta-Learning. *Findings of EMNLP 2022* [[PDF]](https://aclanthology.org/2022.findings-emnlp.482.pdf)
-* Yiyang Li, **Hongqiu Wu**, Hai Zhao. Semantic-Preserving Adversarial Code Comprehension. *COLING 2022* [[PDF]](https://aclanthology.org/2022.coling-1.267.pdf)
+* [[EMNLP 2022]](https://aclanthology.org/2022.findings-emnlp.482.pdf) **Hongqiu Wu**, Ruixue Ding, Hai Zhao, Boli Chen, Pengjun Xie, Fei Huang, Min Zhang. Forging Multiple Training Objectives for Pre-trained Language Models via Meta-Learning.
+* [[COLING 2022]](https://aclanthology.org/2022.coling-1.267.pdf) Yiyang Li, **Hongqiu Wu**, Hai Zhao. Semantic-Preserving Adversarial Code Comprehension.
 
 **2021**
 
-* **Hongqiu Wu**, Hai Zhao, Min Zhang. Not All Attention Is All You Need. *Arxiv 2021* [[PDF]](https://arxiv.org/pdf/2104.04692)
-* **Hongqiu Wu**, Hai Zhao, Min Zhang. Code Summarization with Structure-induced Transformer. *ACL 2021* [[PDF]](https://aclanthology.org/2021.findings-acl.93.pdf)
+* [[Arxiv]](https://arxiv.org/pdf/2104.04692) **Hongqiu Wu**, Hai Zhao, Min Zhang. Not All Attention Is All You Need.
+* [[ACL 2021]](https://aclanthology.org/2021.findings-acl.93.pdf) **Hongqiu Wu**, Hai Zhao, Min Zhang. Code Summarization with Structure-induced Transformer.
 
 # Honor
 * National Scholarship (国家奖学金)
