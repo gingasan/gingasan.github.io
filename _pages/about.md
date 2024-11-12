@@ -96,6 +96,11 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 * Outstanding Student Scholarship
 * The SJTU Cup Champions for Football
 
+# Talk
+
+* **Open Virtual World and Delta-Engine**, SJTU-CS Global Lunch Seminar, Shanghai, 2024.10
+* **LLM-based Interactive Drama**, Minimax, Shanghai, 2024.9
+
 # Experience
 * Research Intern, miHoYo LumiNLP
 * Research Intern, ByteDance AI Lab
