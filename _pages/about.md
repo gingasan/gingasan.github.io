@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University.
+Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
 My research interest includes **open virtual world**, **user generated content**, **role-playing**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ACL, EMNLP, NeurIPS, ICLR, etc.
 
 I worked as a research intern at miHoYo.
@@ -98,6 +98,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 # Talk
 
+* **LLM-based Interactive Drama**, Netease, Hangzhou, 2024.11
 * **Open Virtual World and Delta-Engine**, SJTU-CS Global Lunch Seminar, Shanghai, 2024.10
 * **LLM-based Interactive Drama**, Minimax, Shanghai, 2024.9
 
