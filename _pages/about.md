@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
-My research interest includes **open virtual world**, **user generated content**, **role-playing**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ARR, NeurIPS, ICML, etc.
+My research interest includes **open virtual world**, **narrative**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer for ARR, NeurIPS, ICML, etc.
 
 I worked as a research intern at miHoYo.
 My favorite games include Assassin's Creed, Marvel's Spider-Man, etc.
@@ -16,19 +16,19 @@ My favorite games include Assassin's Creed, Marvel's Spider-Man, etc.
 ---
 # Project
 
+### Interactive Drama
+
+We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with the characters. [[repo]](https://github.com/gingasan/interactive-drama) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230) Our work is accepted by ACL 2024.
+
+![](screen.png)
+
+
+
 ### Free Pokémon
 
 A new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft their own pokemons by issuing natural language scripts. [[repo]](https://github.com/gingasan/delta-engine/tree/main/delta-pokemon) [[video]](https://www.bilibili.com/video/BV1FtYkehEHF)
 
 ![](frpm.png)
-
-
-
-### Interactive Drama
-
-We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with in-play chracters. [[demo]](https://www.bilibili.com/video/BV1sZ421x7oU/?vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230) Our work is accepted by ACL 2024.
-
-![](drama.png)
 
 
 
