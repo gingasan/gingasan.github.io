@@ -55,9 +55,12 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 \* denotes equal contribution
 
-**2024**
+**2025**
 
+* [[Arxiv]](https://arxiv.org/pdf/2502.17878) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
 * [[COLING 2025]]() Linfeng Liu, **Hongqiu Wu**, Hai Zhao. Driving Chinese Spelling Correction from a Fine-Grained Perspective.
+
+**2024**
 
 * [[EMNLP 2024 Demo]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**\*, Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game Engine: A Poker Case Study.
 * [[Arxiv]](https://arxiv.org/pdf/2408.05842) **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine.
