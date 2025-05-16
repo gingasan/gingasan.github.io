@@ -8,16 +8,26 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
-My research interest includes **open virtual world**, **interactive drama**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I worked as a research intern at miHoYo. I'm serveing as reviewer/area chair for ARR, NeurIPS, ICML, etc.
+My research interest includes **open virtual world**, **interactive drama**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, ICML, etc.
+
+I'm working as an intern at Anuttacon. 
 
 ---
 # Project
 
 ### Interactive Drama
 
-We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with the characters. [[repo]](https://github.com/gingasan/interactive-drama) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230) Our work is accepted by ACL 2024.
+Our second work explored the empowerment of the player that can have an impact on the characters in the drama, which is crucial for building a deep interactive experience. We call this **Agency**. [[demo]](https://www.xiaohongshu.com/explore/67c062c50000000029029ab8?xsec_token=AB72_SeYVn1jO24ady7bgdzLsL8nX4zS4ZwQj0D0F3cQw=&xsec_source=pc_user) [[ACL 2025]](https://arxiv.org/pdf/2502.17878)
 
-![](screen.png)
+
+
+We developed LLM-based interactive drama in a script of Detective Conan, where audience can step into the play to interact with the characters. [[repo]](https://github.com/gingasan/interactive-drama) [[zhihu]](https://zhuanlan.zhihu.com/p/698845230) [[ACL 2024]](https://arxiv.org/pdf/2405.14231)
+
+
+
+This is our demonstration of LLM-based interactive Drama, script 《候车室的七个人》 (***Seven in the Waiting Room***).
+
+![](drama_conan.png)
 
 
 
@@ -57,18 +67,17 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2025**
 
-* [[Arxiv]](https://arxiv.org/pdf/2502.17878) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
+* [[ACL 2025]](https://arxiv.org/pdf/2502.17878) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
+* [[ACL 2025]](https://arxiv.org/pdf/2408.09386) Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction.
+* [[ACL 2025]](https://arxiv.org/pdf/2408.09853) Weiqi Wu, **Hongqiu Wu**, Hai Zhao. X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents.
 * [[COLING 2025]]() Linfeng Liu, **Hongqiu Wu**, Hai Zhao. Driving Chinese Spelling Correction from a Fine-Grained Perspective.
 
 **2024**
 
 * [[EMNLP 2024 Demo]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**\*, Xingyuan Liu\*, Yan Wang, Hai Zhao. Instruction-Driven Game Engine: A Poker Case Study.
 * [[Arxiv]](https://arxiv.org/pdf/2408.05842) **Hongqiu Wu**, Zekai Xu, Tianyang Xu, Jiale Hong, Weiqi Wu, Yan Wang, Hai Zhao, Min Zhang, Zhezhi He. Evolving Virtual World with Delta-Engine.
-* [[Arxiv]](https://arxiv.org/pdf/2408.09386) Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction.
-* [[Arxiv]](https://arxiv.org/pdf/2408.09853) Weiqi Wu, **Hongqiu Wu**, Hai Zhao. Self-Directed Turing Test for Large Language Models.
 * [[ACL 2024]](https://arxiv.org/pdf/2405.14231) Weiqi Wu\*, **Hongqiu Wu**\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang. From Role-Play to Drama-Interaction: An LLM Solution.
 * [[ACL 2024]](https://aclanthology.org/2024.findings-acl.413.pdf) Lai Jiang\*, **Hongqiu Wu**\*, Hai Zhao, Min Zhang. Chinese Spelling Corrector Is Just Language Learner.
-* [[Arxiv]](https://arxiv.org/pdf/2404.00276) **Hongqiu Wu**, Yan Wang, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines for Large Language Models.
 * [[COLING 2024]](https://arxiv.org/pdf/2305.05253) Yifei Yang\*, **Hongqiu Wu**\*, Hai Zhao. Attack Named Entity Recognition by Entity Boundary Interference.
 * [[COLING 2024]](https://arxiv.org/pdf/2402.16470) Khai Jiet Liong, **Hongqiu Wu**, Hai Zhao. Unveiling Vulnerability of Self-Attention.
 * [[AAAI 2024]](https://arxiv.org/pdf/2308.08796) Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Chinese Spelling Correction as Rephrasing Language Model.
