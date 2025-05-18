@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
-My research interest includes **open virtual world**, **interactive drama**, and **error correction**. I achieved the best on [Adversarial GLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, ICML, etc.
+My research interest includes **open virtual world**, **interactive drama**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
 
-I'm working as an intern at Anuttacon. 
+I'm working as an intern at Anuttacon.
 
 ---
 # Project
