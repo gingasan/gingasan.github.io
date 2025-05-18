@@ -39,14 +39,6 @@ A new game genre **Open Role-Playing Game (ORPG)**. Players are allowed to craft
 
 
 
-### Instruction-Driven Poker Engine
-
-It allows players to craft specific games by natural language. [[demo]](https://www.bilibili.com/video/BV1dA4m1w7xr/?spm_id_from=333.999.0.0&vd_source=e0570b35759018455d30551c1e16a676) [[zhihu]](https://zhuanlan.zhihu.com/p/690984411) Our work is accepted by EMNLP 2024 Demonstration.
-
-![](dt.jpg)
-
-
-
 ### ReLM
 
 We released ReLM (Rephrasing Language Model), a new state-of-the-art standard for Chinese Spelling Correction (CSC). [[repo]](https://github.com/gingasan/lemon) [[zhihu]](https://zhuanlan.zhihu.com/p/666826419); LEMON, a novel multi-domain CSC benchmark with ByteDance. [[repo]](https://github.com/gingasan/lemon)
