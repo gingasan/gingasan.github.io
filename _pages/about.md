@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hey guys, this is 伍鸿秋 (Hongqiu Wu). I am now a PhD student in Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
-My research interest includes **open virtual world**, **interactive drama**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
+Hey guys, this is 伍鸿秋 (Hongqiu Wu). I had my PhD at Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
+My research interest includes **pretraining data**, **AI for games**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
 
-I'm working as an intern at Anuttacon.
+I'm now a researcher at Anuttacon.
 
 ---
 # Project
@@ -110,5 +110,3 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 * Research Intern, ByteDance AI Lab
 * Research Intern, Alibaba DAMO Academy
 * Research Intern, Xiaomi AI Lab
-* Algorithm Engineer Intern, Jing Dong Digits
-* Algorithm Engineer Intern, Ping An Insurance
