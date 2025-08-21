@@ -59,7 +59,9 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2025**
 
-* [[ACL 2025]](https://arxiv.org/pdf/2502.17878) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
+* [[EMNLP 2025]]() Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Evolving Chinese Spelling Correction with Corrector-Verifier Collaboration.
+
+* [[ACL 2025]](https://aclanthology.org/2025.acl-long.546.pdf) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
 * [[ACL 2025]](https://arxiv.org/pdf/2408.09386) Jiale Hong\*, **Hongqiu Wu**\*, Hai Zhao. Game Development as Human-LLM Interaction.
 * [[ACL 2025]](https://arxiv.org/pdf/2408.09853) Weiqi Wu, **Hongqiu Wu**, Hai Zhao. X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents.
 * [[COLING 2025]]() Linfeng Liu, **Hongqiu Wu**, Hai Zhao. Driving Chinese Spelling Correction from a Fine-Grained Perspective.
