@@ -59,6 +59,8 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 **2025**
 
+* [[EMNLP 2025 Demo]]() Tianyang Xu\*, **Hongqiu Wu**\*, Weiqi Wu, Hai Zhao. Open-Theatre: An Open-Source Toolkit for LLM-based Interactive Drama.
+
 * [[EMNLP 2025]]() Linfeng Liu\*, **Hongqiu Wu**\*, Hai Zhao. Evolving Chinese Spelling Correction with Corrector-Verifier Collaboration.
 
 * [[ACL 2025]](https://aclanthology.org/2025.acl-long.546.pdf) **Hongqiu Wu**, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao. Towards Enhanced Immersion and Agency for LLM-based Interactive Drama.
