@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I had my PhD at Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
-My research interest includes **pretraining data**, **AI for games**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
+My research interest includes **LLM pretraining**, **AI for games**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
 
-I'm now a researcher at Anuttacon.
+I'm now an **algorithm engineer at Huanyuan pretraining** group.
 
 ---
 # Project
@@ -47,7 +47,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 
 # Education
 
-* PhD, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2020 - present
+* PhD, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2020 - 2025
 
 * Bachelor of Engineering, Information Engineering, Shanghai Jiao Tong University, 2015 - 2020
 
@@ -56,6 +56,10 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 # Publication
 
 \* denotes equal contribution
+
+**2026**
+
+* [[Preprint]](https://arxiv.org/abs/2606.07513) Xintao Wang, Sirui Zheng, **Hongqiu Wu**, Weiyuan Li, Jen-tse Huang, Minghao Zhu, Can Zu, Qi Deng, Jiawei Wang, Qianyu He, Heng Wang, Xiaojian Wu, Yunzhe Tao. Agentopia: Long-Term Life Simulation and Learning in Agent Societies.
 
 **2025**
 
@@ -109,8 +113,7 @@ We released ReLM (Rephrasing Language Model), a new state-of-the-art standard fo
 * **Open Virtual World and Delta-Engine**, SJTU-CS Global Lunch Seminar, Shanghai, 2024.10
 * **LLM-based Interactive Drama**, Minimax, Shanghai, 2024.9
 
-# Experience
-* Research Intern, miHoYo LumiNLP
+# Internship Experience
+* Research Intern,  Anuttacon
 * Research Intern, ByteDance AI Lab
 * Research Intern, Alibaba DAMO Academy
-* Research Intern, Xiaomi AI Lab
