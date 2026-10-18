@@ -10,7 +10,7 @@ redirect_from:
 Hey guys, this is 伍鸿秋 (Hongqiu Wu). I had my PhD at Deptment of CS, Shanghai Jiao Tong University, supervised by Professor Hai Zhao and Min Zhang.
 My research interest includes **LLM pretraining**, **AI for games**, and **error correction**. I achieved the best on [AdvGLUE](https://adversarialglue.github.io) and [HellaSWAG](https://leaderboard.allenai.org/hellaswag/submissions/public). I'm serveing as reviewer/area chair for ARR, NeurIPS, etc.
 
-I'm now an algorithm engineer at Huanyuan pretraining group.
+I'm now an algorithm engineer at Hunyuan pretraining group.
 
 ---
 # Project
